@@ -1,5 +1,3 @@
-*TODO*: Please edit the following information in your final project
-
 ## Title: 
 
 **Water simulation with object physics**
