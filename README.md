@@ -12,8 +12,8 @@
 
 **Images**
 
-<img src="./part1/media/water1.PNG">
-<img src="./part1/media/water2.PNG">
+<img src="./project/media/water1.PNG">
+<img src="./project/media/water2.PNG">
 
 
 
